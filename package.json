@@ -1,0 +1,51 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^12.0.5",
+    "@react-native-async-storage/async-storage": "^1.15.5",
+    "@react-native-community/masked-view": "0.1.10",
+    "@react-native-picker/picker": "^1.16.3",
+    "@react-navigation/bottom-tabs": "^5.11.10",
+    "@react-navigation/drawer": "^5.12.5",
+    "@react-navigation/native": "^5.9.4",
+    "@react-navigation/stack": "^5.14.5",
+    "cors": "^2.8.5",
+    "expo": "~41.0.1",
+    "expo-status-bar": "~1.0.4",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-41.0.0.tar.gz",
+    "react-native-elements": "^3.4.1",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-localhost": "^1.0.0",
+    "react-native-multi-selectbox": "^1.5.0",
+    "react-native-paper": "^4.9.2",
+    "react-native-reanimated": "~2.1.0",
+    "react-native-restart": "0.0.22",
+    "react-native-safe-area-context": "3.2.0",
+    "react-native-screens": "~3.0.0",
+    "react-native-select-input-ios": "^2.0.5",
+    "react-native-simple-card": "^1.0.1",
+    "react-native-vector-icons": "^8.1.0",
+    "react-native-web": "~0.13.12",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^5.2.0",
+    "react-router-native": "^5.2.0",
+    "react-stripe-checkout": "^2.6.3",
+    "redux": "^4.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0"
+  },
+  "private": true
+}
